@@ -1,0 +1,23 @@
+{
+    "169753690767360001" : {
+        "277677797860835328" : {
+            "Anime" : {
+                "last" : "[Kirion] Natsume Yuujinchou Go (HD 720p x264 AAC MP4)",
+                "template" : ":film_frames: $name:\n$title\n<$link>",
+                "url" : "https://www.nyaa.se/?page=rss&cats=1_37"
+            }
+        },
+        "278872559943155712" : {
+            "@bladeandsoul" : {
+                "last" : "These are your Rumble in the Realm III regional finalists!  http://www.bladeandsoul.com/en/news/rumble-in-the-realm-iii-finalists/\u00a0\u2026pic.twitter.com/WyfOOYgHhv",
+                "template" : ":baby_chick: $name:\n$title",
+                "url" : "https://twitrss.me/twitter_user_to_rss/?user=bladeandsoul"
+            },
+            "@bladeandsoulops" : {
+                "last" : "[#BladeandSoul] All server maintenance 4 AM PST (  http://ow.ly/UqFF309su5g\u00a0  ) on 03/01; ETA ~ 5hrs  . Details:http://ow.ly/LTJ8309su62",
+                "template" : ":bird: $name:\n$title",
+                "url" : "https://twitrss.me/twitter_user_to_rss/?user=BladeAndSoulOps"
+            }
+        }
+    }
+}

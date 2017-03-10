@@ -1,0 +1,22 @@
+{
+    "169753690767360001" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "169753690767360001",
+        "GREETING" : [
+            "Welcome {0.name} to :lizard: {1.name}!"
+        ],
+        "ON" : true,
+        "WHISPER" : false
+    },
+    "277672446201692170" : {
+        "BOTS_MSG" : null,
+        "BOTS_ROLE" : null,
+        "CHANNEL" : "277672446201692170",
+        "GREETING" : [
+            "Welcome {0.name} to :lizard: {1.name}!"
+        ],
+        "ON" : true,
+        "WHISPER" : false
+    }
+}

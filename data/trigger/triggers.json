@@ -1,0 +1,17 @@
+[
+    {
+        "active" : true,
+        "case_sensitive" : false,
+        "cooldown" : 1,
+        "name" : "rip",
+        "owner" : "176270538832871424",
+        "regex" : false,
+        "responses" : [
+            "rip"
+        ],
+        "server" : "277672446201692170",
+        "triggered" : 1,
+        "triggered_by" : "rip",
+        "type" : "all"
+    }
+]
